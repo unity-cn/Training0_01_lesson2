@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 84169fdb1aa5b4623a8041f9458cae7f
+  m_SerializeEntries:
+  - m_GUID: 025275d8f2a494fe5833e20f091663f8
+    m_Address: Assets/AssetBundle/Cylinder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MyCylinder
+    m_MainAsset: {fileID: 974642305932558893, guid: 025275d8f2a494fe5833e20f091663f8,
+      type: 3}
+    m_TargetAsset: {fileID: 974642305932558893, guid: 025275d8f2a494fe5833e20f091663f8,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a41a142220d704ac893b890b7839997d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b1aa8c6c027644e4ca2f11428b5d44dc, type: 2}
+    - {fileID: 11400000, guid: defec95b559d9490c9fc700378000b78, type: 2}
