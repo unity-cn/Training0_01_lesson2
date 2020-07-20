@@ -3,3 +3,5 @@
 *.sln
 *.csproj
 Library
+.idea
+obj
